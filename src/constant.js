@@ -1,0 +1,96 @@
+import home1 from './assets/home/home1.png';
+import home2 from './assets/home/home2.png';
+import home3 from './assets/home/home3.png';
+import home4 from './assets/home/home4.png';
+import home5 from './assets/home/home5.png';
+import home6 from './assets/home/home6.png';
+import home7 from './assets/home/home7.png';
+import home8 from './assets/home/home8.png';
+import home9 from './assets/home/home9.png';
+import home10 from './assets/home/home10.png';
+import home11 from './assets/home/home11.png';
+import home12 from './assets/home/home12.png';
+import home13 from './assets/home/home13.png';
+import home14 from './assets/home/home14.png';
+import home15 from './assets/home/home15.png';
+import home16 from './assets/home/home16.png';
+import home17 from './assets/home/home17.png';
+import home18 from './assets/home/home18.png';
+import home19 from './assets/home/home19.png';
+import home20 from './assets/home/home20.png';
+import home21 from './assets/home/home21.png';
+import home22 from './assets/home/home22.png';
+import home23 from './assets/home/home23.png';
+import home24 from './assets/home/home24.png';
+import home25 from './assets/home/home25.png';
+import home26 from './assets/home/home26.png';
+import home27 from './assets/home/home27.png';
+import home28 from './assets/home/home28.png';
+import home29 from './assets/home/home29.png';
+import home30 from './assets/home/home30.png';
+import icon1 from './assets/home/icon1.png';
+import icon2 from './assets/home/icon2.png';
+import icon3 from './assets/home/icon3.png';
+import icon4 from './assets/home/icon4.png';
+import icon5 from './assets/home/icon5.png';
+import icon6 from './assets/home/icon6.png';
+import icon7 from './assets/home/icon7.png';
+import icon8 from './assets/home/icon8.png';
+import icon9 from './assets/home/icon9.png';
+import icon10 from './assets/home/icon10.png';
+import icon11 from './assets/home/icon11.png';
+import icon12 from './assets/home/icon12.png';
+import icon13 from './assets/home/icon13.png';
+import icon14 from './assets/home/icon14.png';
+import icon15 from './assets/home/icon15.png';
+import icon16 from './assets/home/icon16.png';
+import icon17 from './assets/home/icon17.png';
+import icon18 from './assets/home/icon18.png';
+import icon19 from './assets/home/icon19.png';
+import icon20 from './assets/home/icon20.png';
+import icon21 from './assets/home/icon21.png';
+import icon22 from './assets/home/icon22.png';
+import icon23 from './assets/home/icon23.png';
+import icon24 from './assets/home/icon24.png';
+import icon25 from './assets/home/icon25.png';
+import icon26 from './assets/home/icon26.png';
+import icon27 from './assets/home/icon27.png';
+import icon28 from './assets/home/icon28.png';
+import icon29 from './assets/home/icon29.png';
+import icon30 from './assets/home/icon30.png';
+
+
+
+export const homeContent = [
+    {image: home1, company: icon1},
+    {image: home2, company: icon2},
+    {image: home3, company: icon3},
+    {image: home4, company: icon4},
+    {image: home5, company: icon5},
+    {image: home6, company: icon6},
+    {image: home7, company: icon7},
+    {image: home8, company: icon8},
+    {image: home9, company: icon9},
+    {image: home10, company: icon10},
+    {image: home11, company: icon11},
+    {image: home12, company: icon12},
+    {image: home13, company: icon13},
+    {image: home14, company: icon14},
+    {image: home15, company: icon15},
+    {image: home16, company: icon16},
+    {image: home17, company: icon17},
+    {image: home18, company: icon18},
+    {image: home19, company: icon19},
+    {image: home20, company: icon20},
+    {image: home21, company: icon21},
+    {image: home22, company: icon22},
+    {image: home23, company: icon23},
+    {image: home24, company: icon24},
+    {image: home25, company: icon25},
+    {image: home26, company: icon26},
+    {image: home27, company: icon27},
+    {image: home28, company: icon28},
+    {image: home29, company: icon29},
+    {image: home30, company: icon30},
+
+]
